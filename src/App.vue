@@ -4,11 +4,8 @@
 
 <!-- HTML -->
 <template>
-  <div class="bg-red-300">
-    <p>test</p>
+  <div class="flex flex-col gap-2 px-8">
+    <p>Vue</p>
   </div>
 </template>
 
-<!-- CSS -->
-<style scoped>
-</style>
